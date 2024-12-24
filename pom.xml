@@ -57,7 +57,6 @@
                 			<source>1.8</source> <!-- Adjust to the Java version you need -->
                 			<target>1.8</target> <!-- Adjust to the Java version you need -->
             			</configuration>
-				<groupId>org.apache.maven.plugins</groupId>
             			<artifactId>maven-war-plugin</artifactId>
             			<version>3.3.2</version>
         	</plugin>
