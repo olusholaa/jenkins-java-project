@@ -4,16 +4,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Netflix Login Page | CodingNepal</title>
+    <title>Netflix 2 Login Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <nav>
-      <a href="#"><img src="https://github.com/CanisCoder/jenkins-java-project/blob/master/src/netflixlogo.png?raw=true" alt="logo" /></a>
+      <a href="#"><img src="https://github.com/olusholaa/jenkins-java-project/blob/master/src/netflixlogo.png?raw=true" alt="logo" /></a>
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-10.0</h2>
+      <h2>NETFLIX2 SIGN IN V-10.0</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WELCOME TO NETFLIX V-10.0</button>
+        <button type="submit">WELCOME TO NETFLIX2 V-10.0</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
